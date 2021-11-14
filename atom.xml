@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuzhihet.github.io/biog/</id>
     <title>WuzhiNet</title>
-    <updated>2021-11-14T07:40:50.212Z</updated>
+    <updated>2021-11-14T07:42:08.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuzhihet.github.io/biog/"/>
     <link rel="self" href="https://wuzhihet.github.io/biog/atom.xml"/>
@@ -27,13 +27,6 @@
 测试功能啊吧啊吧<br>
 啊吧啊吧阿巴阿八八八吧<br>
 <img src="https://wuzhihet.github.io/biog//post-images/1636874768101.jpg" alt="" loading="lazy"></p>
-<!-- more -->
-<p>咕<br>
-咕<br>
-咕<br>
-咕<br>
-咕<br>
-咕咕咕咕咕~~~~~~~</p>
 ]]></content>
     </entry>
     <entry>
@@ -42,12 +35,5 @@
         <link href="https://wuzhihet.github.io/biog/post/about/">
         </link>
         <updated>2021-11-14T02:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀，我是晓波很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<h2 id="联系我呀">📬 联系我呀</h2>
-]]></content>
     </entry>
 </feed>
