@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuzhihet.github.io/biog/</id>
     <title>WuzhiNet</title>
-    <updated>2021-11-14T06:32:17.251Z</updated>
+    <updated>2021-11-14T06:38:43.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuzhihet.github.io/biog/"/>
     <link rel="self" href="https://wuzhihet.github.io/biog/atom.xml"/>
@@ -12,11 +12,11 @@
     <icon>https://wuzhihet.github.io/biog/favicon.ico</icon>
     <rights>All rights reserved 2021, WuzhiNet</rights>
     <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[WuzhiNet]]></title>
         <id>https://wuzhihet.github.io/biog/post/about/</id>
         <link href="https://wuzhihet.github.io/biog/post/about/">
         </link>
-        <updated>2021-11-13T11:09:48.000Z</updated>
+        <updated>2021-11-14T02:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到我的小站呀，我是晓波很高兴遇见你！🤝</p>
 </blockquote>
