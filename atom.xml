@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuzhihet.github.io/biog/</id>
     <title>WuzhiNet</title>
-    <updated>2021-11-14T07:10:43.657Z</updated>
+    <updated>2021-11-14T07:31:56.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuzhihet.github.io/biog/"/>
     <link rel="self" href="https://wuzhihet.github.io/biog/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://wuzhihet.github.io/biog/images/avatar.png</logo>
     <icon>https://wuzhihet.github.io/biog/favicon.ico</icon>
     <rights>All rights reserved 2021, WuzhiNet</rights>
+    <entry>
+        <title type="html"><![CDATA[这是第二片文章]]></title>
+        <id>https://wuzhihet.github.io/biog/post/zhe-shi-di-er-pian-wen-zhang/</id>
+        <link href="https://wuzhihet.github.io/biog/post/zhe-shi-di-er-pian-wen-zhang/">
+        </link>
+        <updated>2021-11-14T07:18:33.000Z</updated>
+        <summary type="html"><![CDATA[<p>啊吧啊吧阿八八八<br>
+<img src="https://wuzhihet.github.io/biog//post-images/1636874682968.jpg" alt="" loading="lazy"><br>
+测试功能啊吧啊吧<br>
+啊吧啊吧阿巴阿八八八吧<br>
+<img src="https://wuzhihet.github.io/biog//post-images/1636874768101.jpg" alt="" loading="lazy"></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>啊吧啊吧阿八八八<br>
+<img src="https://wuzhihet.github.io/biog//post-images/1636874682968.jpg" alt="" loading="lazy"><br>
+测试功能啊吧啊吧<br>
+啊吧啊吧阿巴阿八八八吧<br>
+<img src="https://wuzhihet.github.io/biog//post-images/1636874768101.jpg" alt="" loading="lazy"></p>
+<!-- more -->
+<p>咕咕咕咕咕~~~~~~~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WuzhiNet]]></title>
         <id>https://wuzhihet.github.io/biog/post/about/</id>
